@@ -1,16 +1,29 @@
 # Freecommercialfont
-TAMSHEN精心推荐的免费可商用字体
 
-**免费分享，请勿进行售卖**
+**此仓库仅收集看得过眼、可直接商用，无须书面授权的字体！**
 
-**转载请注明作者和来源！**
+**This warehouse only collects fonts that can be directly commercialized without written authorization!**
 
 
-欢迎在下面找到我：
+**免费分享，请勿进行售卖！转载请注明作者和来源！**
 
-- 我的网站：https://tamshen.com
-- ZCOOL：https://www.zcool.com.cn/u/16262298/
-- Behance：https://www.behance.net/tamshen
+**Free share, Please do not sell! Please indicate the author and source!**
+
+
+**E编号开头的均为英文字体！**
+
+**E number starts with English font!**
+
+
+
+# Maintainer
+
+- **TAMSHEN**
+    - 一名设计渣渣。
+    - TAMSHEN WEB SITE：https://tamshen.com
+    - ZCOOL：https://www.zcool.com.cn/u/16262298/
+
+
 
 
 
