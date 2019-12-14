@@ -3,7 +3,7 @@
 ## CN_README
 **此仓库仅备份看得过眼、可直接商用，无须书面授权的字体！**
 
-**资源均来自网络分享，如有版权争议与错误请及时提交 [issues](./issues) ！（收到信息后会尽快处理。）**
+**资源均来自网络分享，如有版权争议与错误请及时提交 [issues](https://github.com/Tamshen/Freecommercialfont/issues) ！（收到信息后会尽快处理。）**
 
 - **C 编号开头的是系列字体！**
 
@@ -19,7 +19,7 @@
 
 This warehouse only backs up fonts that can be commercialized directly without written authorization!
 
-All resources are shared from the Internet. If there are copyright disputes and errors, please submit [issues](./issues) in time! (The information will be processed as soon as possible after receipt.)
+All resources are shared from the Internet. If there are copyright disputes and errors, please submit [issues](https://github.com/Tamshen/Freecommercialfont/issues) in time! (The information will be processed as soon as possible after receipt.)
 
 - C number starts with a family font!
 
