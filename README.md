@@ -71,6 +71,10 @@ Check **[font list](https://github.com/Tamshen/Freecommercialfont#font-list)**, 
 |刻石录系列|[刻石錄顏體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.顏體)      |I.Ngaan               |1.004|
 |       |[刻石錄鋼筆鶴體](http://founder.acgvlyric.org/iu/doku.php/造字:開源字型_i.鋼筆鶴體)    |   I.PenCrane-B            |1.004|
 |-||||
+|胡晓波系列|[胡晓波男神体](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)      |               |1.00|
+|       |[胡晓波骚包体](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)    |               |1.00|
+|       |[胡晓波真帅体](https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html)    |               |1.00|
+|-||||
 |Sole   |[杨任东竹石体](https://mp.weixin.qq.com/s/7kv3i_YEs7x9_9IrCDYvBA)      |                |1.23|
 |       |[阿里巴巴普惠体](https://alibabafont.taobao.com/wow/alibabafont/act/alifont)    |                |1.10|
 |       |[OPPO Sans](https://mp.weixin.qq.com/s/ot3OAA_z5X63xFWE1AwX-g)        |                |1.00|
@@ -85,6 +89,7 @@ Check **[font list](https://github.com/Tamshen/Freecommercialfont#font-list)**, 
 |       |[联盟起艺卢帅正锐黑体](https://www.zcool.com.cn/work/ZMzUxMzUzNzY=.html) |                   |1.00|
 |       |[新叶念体](https://mp.weixin.qq.com/s/PSmL5_9spCv1ZwntvKgmFQ)         |                   |1.00|
 | |[问藏书房](https://www.wencang.com/font.jsp) | |1.00|
+| |[优设标题黑](https://www.uisdc.com/uisdc-first-free-font) | |1.00|
 
 
 
