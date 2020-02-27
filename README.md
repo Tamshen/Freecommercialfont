@@ -90,6 +90,9 @@ Check **[font list](https://github.com/Tamshen/Freecommercialfont#font-list)**, 
 |       |[新叶念体](https://mp.weixin.qq.com/s/PSmL5_9spCv1ZwntvKgmFQ)         |                   |1.00|
 | |[问藏书房](https://www.wencang.com/font.jsp) | |1.00|
 | |[优设标题黑](https://www.uisdc.com/uisdc-first-free-font) | |1.00|
+| |[令东齐伋体](https://github.com/LingDong-/qiji-font) | |0.0.1|
+
+
 
 
 
