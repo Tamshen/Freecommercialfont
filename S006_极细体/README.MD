@@ -1,1 +1,0 @@
-http://font.websozai.jp/line-font-mihon.html
