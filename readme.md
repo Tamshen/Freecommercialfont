@@ -8,6 +8,9 @@
 
 如果没有需要的，建议去字体大全一览寻找：https://www.maoken.com/all-fonts
 
+## 下载
+
+[r3-源代码.zip](https://tamshen.coding.net/p/Freecommercialfont/d/Freecommercialfont/git/archive/r3.zip)
 
 ## 字体列表
 
