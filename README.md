@@ -8,9 +8,6 @@
 
 如果没有需要的，建议去字体大全一览寻找：https://www.maoken.com/all-fonts
 
-## 下载
-
-[r3-源代码.zip](https://tamshen.coding.net/p/Font/d/Freecommercialfont/git/archive/r3.zip)
 
 ## 字体列表
 
@@ -56,6 +53,7 @@
 | [新叶念体](https://mp.weixin.qq.com/s/PSmL5_9spCv1ZwntvKgmFQ) |                         | 1.00           | 简     |
 | [问藏书房](https://www.wencang.com/font.jsp)                 |                         | 1.00           | 简     |
 | [优设标题黑](https://www.uisdc.com/uisdc-first-free-font)    |                         | 1.00           | 简     |
+| [优设好身体](https://www.uisdc.com/uisdc-haoshenti)    |                         | 1.00           | 简     |
 | [令东齐伋体](https://github.com/LingDong-/qiji-font)         | qiji                    | 0.0.1          | 简/繁  |
 | [品如手写体](https://www.zcool.com.cn/work/ZMjE0MjQyMDg=.html) |                         | 1.00           | 简     |
 | [鸿雷板书简体](https://www.zcool.com.cn/work/ZNDMzODk5ODQ=.html) |                         | 1.000          | 简     |
@@ -74,3 +72,6 @@
 | [江西拙楷体2.0](https://www.zcool.com.cn/work/ZNDE4MzY4Mjg=.html) |  | 1.000          | 简     |
 | [峰广明锐体](https://mp.weixin.qq.com/s/_PreM7l3lr9PcLmCPq5Vvg) |  | 001.000          | 简     |
 | [柳体](https://lists.debian.org/debian-chinese-gb/2006/03/msg00121.html) | Liu ti | 0.0.1         | 简     |
+| [仓耳系列6款](http://tsanger.cn/category/115) | Tsanger | 1.000         | 简     |
+| [千图小兔体](https://www.58pic.com/index.php?m=qtwFonts&a=index) |  | 1.000         | 简     |
+| [摄图摩登小方体](https://699pic.com/subject/gongyiziti.html) |  | 1.000         | 简     |
