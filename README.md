@@ -8,6 +8,18 @@
 
 如果没有需要的，建议去字体大全一览寻找：https://www.maoken.com/all-fonts
 
+## Download
+
+❗❗❗ Warning : File package size exceeds 1 Gigabit.
+
+
+|                                           |    |
+| ------------------------------------------------------------ |  :----- |
+| Coding/CN  |  [master.zip](https://tamshen.coding.net/p/Font/d/Freecommercialfont/git/archive/master.zip)  |
+| Github/Other  |  [master.zip](https://github.com/Tamshen/Freecommercialfont/archive/master.zip)  |
+
+
+
 
 ## 字体列表
 
